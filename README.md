@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2022<br>- 📚 I'm currently learning Kotlin and Android 📱<br>- 🎯 Goals: Build a lovely family 👨‍👩‍👧‍👦 <br> and read many books 📖<br>- 🎲 And ... I play Design Home 🏡 and love traditional food 🍗</p>
+<p align="left">- ✨ Creating bugs since 2022<br>- 📚 I'm currently learning Kotlin and Android 📱<br>- 🎯 Goals: Build a lovely family 👨‍👩‍👧‍👦 and read many books 📖<br>- 🎲 And ... I play Design Home 🏡 and love traditional food 🍗</p>
 
 ###
 
