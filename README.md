@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohammed Ali and I'm a fresh Android Developer, from Jordan</p>
+<p align="left">Hi, I’m Mohammed Ali, a fresh android developer who loves to learn and connect new technologies 🖥. I recently finished Android Kotlin Developer Nanodegree from Udacity.  I’d love to combine my passion learning with the knowledge I learned from the course to learn and develop modern apps with new technologies 😁. </p>
 
 ###
 
